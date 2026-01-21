@@ -10,7 +10,6 @@ import { useEffect, useState } from 'react';
 const navigation = [
   { name: 'Home', href: '/' },
   { name: 'Shop', href: '/shop' },
-  { name: 'Categories', href: '#categories' },
   { name: 'Contact', href: '#contact' },
 ];
 
